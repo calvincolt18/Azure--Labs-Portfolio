@@ -23,7 +23,7 @@ This project demonstrates how to create and configure a virtual machine in Micro
 8. Deployed the virtual machine
 
 ## Video Demo
-[Click to watch the walkthrough on Loom]([PASTE-YOUR-LOOM-LINK-HERE](https://www.loom.com/share/9318521637bd476cb89710e5a6693a52?sid=f5bbd597-3f00-4c0e-9ef7-b090785c3625))
+[Click to watch the walkthrough on Loom]  https://www.loom.com/share/9318521637bd476cb89710e5a6693a52
 
 ## Outcome
 Successfully created a virtual machine and deployed it through the Azure Portal. This gave hands-on practice in basic Azure infrastructure setup.
