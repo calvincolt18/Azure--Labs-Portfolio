@@ -27,3 +27,26 @@ This project demonstrates how to create and configure a virtual machine in Micro
 
 ## Outcome
 Successfully created a virtual machine and deployed it through the Azure Portal. This gave hands-on practice in basic Azure infrastructure setup.
+
+
+
+
+## Project: Azure Blob Storage
+
+### Overview
+This lab demonstrates how to create a Storage Account, configure a secure Blob container, and upload a file to Azure Blob Storage.
+
+### Steps Performed
+1. Created a new Storage Account
+2. Configured a private Blob Container
+3. Uploaded a test file (Blob)
+4. Viewed properties and access settings
+
+### Tools Used
+- Microsoft Azure Portal
+- Azure Storage Account
+- Blob Storage
+- Loom (for video walkthrough)
+
+### Video Demonstration
+[Loom Video Link Here] https://www.loom.com/share/4b60350a230a4b49bed1ccb735402781
