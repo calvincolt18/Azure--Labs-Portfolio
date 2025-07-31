@@ -114,3 +114,35 @@ Successfully enabled and enforced Multi-Factor Authentication for an Azure AD us
 
 ### Video Demonstration
 [Loom Video Link Here] https://www.loom.com/share/15536070bd07447dbb46bcbbb0cdc17d?live_rewind=1
+
+
+
+
+
+
+Lab Steps: Azure Policy
+
+
+1.Search for “Policy” in the search bar.
+
+2.On the left panel, click Assignments.
+
+3.Click Assign Policy.
+
+4.Under Basics:
+
+Scope: Choose your Subscription or a Resource Group.
+
+Policy definition: Click to browse and select Require a tag on resources.
+
+5.Under Parameters, define:
+
+Tag Name (e.g., Environment)
+
+Tag Value (optional)
+
+6.Click Review + Create, then Create.
+
+
+### Video Demonstration
+[Loom Video Link Here] https://www.loom.com/share/a94fe58cdff244a08ae64277bda1667b?live_rewind=1
