@@ -50,3 +50,36 @@ This lab demonstrates how to create a Storage Account, configure a secure Blob c
 
 ### Video Demonstration
 [Loom Video Link Here] https://www.loom.com/share/4b60350a230a4b49bed1ccb735402781
+
+
+Title: Azure Virtual Network and Subnet Configuration
+
+Tools Used: Azure Portal
+
+Steps Performed:
+
+1.Navigated to Virtual Networks → Clicked Create
+
+2.Selected subscription, resource group
+
+3.Named the virtual network and selected region
+
+4.Configured address space (default: 10.0.0.0/16)
+
+5.Added subnet ‘MySubnet’ with address range 10.0.0.0/24
+
+6.Skipped optional security/DNS settings
+
+7.Clicked Review + Create, then Create
+
+8.Verified deployment and confirmed VNet and subnet created
+
+
+
+Outcome:
+
+Successfully deployed a basic Azure virtual network and subnet, which is foundational for networking in Azure.
+
+### Video Demonstration
+[Loom Video Link Here] https://www.loom.com/share/a5c04c1c6d584d09bd8a53adbd2cedbd
+
