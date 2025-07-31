@@ -83,3 +83,34 @@ Successfully deployed a basic Azure virtual network and subnet, which is foundat
 ### Video Demonstration
 [Loom Video Link Here] https://www.loom.com/share/a5c04c1c6d584d09bd8a53adbd2cedbd
 
+
+
+
+
+
+Title: Azure Active Directory Multi-Factor Authentication
+
+Tools Used: Azure Portal, Azure AD
+
+Steps Performed:
+
+1.Navigated to Azure Active Directory → Users
+
+2.Selected a user to enable MFA
+
+3.Clicked Multi-Factor Authentication from the top menu
+
+4.Located the user → Clicked Enable
+
+5.Confirmed MFA enable prompt
+
+6.Optionally clicked Enforce to require MFA setup at next login
+
+
+
+Outcome:
+
+Successfully enabled and enforced Multi-Factor Authentication for an Azure AD user to enhance identity security.
+
+### Video Demonstration
+[Loom Video Link Here] https://www.loom.com/share/15536070bd07447dbb46bcbbb0cdc17d?live_rewind=1
